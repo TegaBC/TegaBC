@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📦 Currently building Studium
+- 🎮 Gameplay Engineer on the ROBLOX platform
+- 🌐 Frontend Web Developer
+
 <!--
 **TegaBC/TegaBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
