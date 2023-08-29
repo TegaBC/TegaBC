@@ -4,6 +4,7 @@
 - 📦 Currently building Studium
 - 🎮 Gameplay Engineer on the ROBLOX platform
 - 🌐 Frontend React Developer
+- 📖 Learning C
 
 👨‍💻 Find my Roblox related site [here](https://tegabc.co.uk)
 
