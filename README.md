@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tega</h1>
 <h3 align="center">I am a Frontend React Developer and Gameplay Engineer</h3>
 
-- 📦 Currently building Studium
+- 📦 Currently building mini projects!
 - 🎮 Gameplay Engineer on the ROBLOX platform
 - 🌐 Frontend React Developer
-- 📖 Learning C
+- 📖 Learning C, Python
 
-👨‍💻 Find my Roblox related site [here](https://tegabc.co.uk)
+👨‍💻 Find my Roblox-related site [here](https://tegabc.co.uk)
 
 <!--
 **TegaBC/TegaBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
