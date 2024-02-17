@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tega</h1>
-<h3 align="center">I am a Frontend React Developer and Gameplay Engineer</h3>
+<h3 align="center">I am a Software Engineer and Gameplay Programmer</h3>
 
 - 📦 Currently building mini projects!
-- 🎮 Gameplay Engineer on the ROBLOX platform
+- 🎮 Gameplay Programmer on the ROBLOX platform
 - 🌐 Frontend React Developer
-- 📖 Learning C, Python
 
 👨‍💻 Find my Roblox-related site [here](https://tegabc.co.uk)
 
