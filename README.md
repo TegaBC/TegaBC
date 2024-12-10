@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tega</h1>
 <h3 align="center">I am a Software Engineer and Gameplay Programmer</h3>
 
-- 📦 Currently building mini projects!
+- 👨‍💻 Software Engineer (C, Python, LabVIEW & React)
 - 🎮 Gameplay Programmer on the ROBLOX platform
-- 🌐 Frontend React Developer
+- 📦 Currently building games & tools!
 
-👨‍💻 Find my Roblox-related site [here](https://tegabc.co.uk)
+👨‍💻 Find my Roblox related site [here](https://tegabc.co.uk)
 
 <!--
 **TegaBC/TegaBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
